@@ -1,4 +1,4 @@
 # DetectingHoaxMultimodel
 
-<img scr="https://github.com/Lordrizal/Application-Multimodel-Deep-Learning-Detecting-Hoax-News-Turnbackhoax.id-CNN/commit/498eb92f5f9706f236465e1ec5ac3a04812442b7">
+<img align="left" width="250" height="150" src="https://github.com/rizalarb/Application-Multimodel-Deep-Learning-Detecting-Hoax-News-Turnbackhoax.id-CNN/blob/master/Fake%20News%20Image.jpg"> **[Application of Multimodel Deep Learning in Detecting Hoax News on the Turnbackhoax.id Page Using the CNN Algorithm](https://github.com/rizalarb/Application-Multimodel-Deep-Learning-Detecting-Hoax-News-Turnbackhoax.id-CNN)**
 
